@@ -1,0 +1,93 @@
+{
+	"danceEvery": 1,
+	"offsets": [
+		0,
+		0
+	],
+	"renderType": "sparrow",
+	"version": "1.0.0",
+	"scale": 1,
+	"flipX": false,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"name": "Kitkat",
+	"isPixel": false,
+	"startingAnimation": "idle",
+	"singTime": 8,
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "KitKat",
+		"flipX": false
+	},
+	"assetPath": "characters/KitKat",
+	"generatedBy": "Nova Character Editor v0.1.2",
+	"animations": [
+		{
+			"offsets": [
+				32,
+				138
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KK idle dance",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				66,
+				132
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KK left note",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				30,
+				105
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KK down note",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				36,
+				159
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KK up note",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				12,
+				128
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "KK right note",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

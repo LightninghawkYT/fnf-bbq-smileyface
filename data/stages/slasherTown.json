@@ -1,0 +1,145 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-940, -200],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "nightsky",
+      "isPixel": false,
+      "assetPath": "snowyStreets/nightsky",
+      "scroll": [0.7, 0.7],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [600, -150],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "moon",
+      "isPixel": false,
+      "assetPath": "snowyStreets/moon",
+      "scroll": [0.7, 0.7],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-900, -300],
+      "scale": [1.1, 1.1],
+      "animType": "sparrow",
+      "name": "buildings",
+      "isPixel": false,
+      "assetPath": "snowyStreets/buildings",
+      "scroll": [0.8, 0.8],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 20,
+      "position": [-750, -270],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "WireTowers",
+      "isPixel": false,
+      "assetPath": "snowyStreets/WireTowers",
+      "scroll": [0.8, 0.8],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-700, -200],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "SnowBg",
+      "isPixel": false,
+      "assetPath": "snowyStreets/bgSnow",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+  {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-700, -200],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "SnowBg",
+      "isPixel": false,
+      "assetPath": "snowyStreets/bgSnow",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+  {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-1000, -200],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "SnowBg",
+      "isPixel": false,
+      "assetPath": "snowyStreets/bgSnow",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+  {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [0, 0],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "Pole",
+      "isPixel": false,
+      "assetPath": "snowyStreets/LightPole",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+  {
+      "danceEvery": 0,
+      "zIndex": 210,
+      "position": [-720, -220],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "Light",
+      "isPixel": false,
+      "assetPath": "snowyStreets/LightShine",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 40,
+      "position": [-500, 800],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "SnowFg",
+      "isPixel": false,
+      "assetPath": "snowyStreets/fgSnow",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.67,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1299.5, 1060],
+      "cameraOffsets": [-350, -200]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [367, 1185],
+      "cameraOffsets": [300, -300]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [0, 0],
+      "position": [751.5, 920]
+    }
+  },
+  "name": "SlasherStreet",
+  "directory": "weekSlash"
+}

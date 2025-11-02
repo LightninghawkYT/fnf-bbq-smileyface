@@ -19,7 +19,7 @@
 	<SubTexture name="cassette demon note down0000" x="2776" y="0" width="448" height="686" frameX="-8" frameY="-7" frameWidth="460" frameHeight="693"/>
 	<SubTexture name="cassette demon note down0001" x="2776" y="0" width="448" height="686" frameX="-8" frameY="-7" frameWidth="460" frameHeight="693"/>
 	<SubTexture name="cassette demon note down0002" x="3244" y="0" width="460" height="693"/>
-	<SubTexture name="cassette demon note down0003" x="3244" y="0" width="460" height="693"/>
+	<SubTexture name="cassette demon note down0003" x="0" y="754" width="460" height="693"/>
 	<SubTexture name="cassette demon note down0004" x="0" y="754" width="460" height="693"/>
 	<SubTexture name="cassette demon note down0005" x="0" y="754" width="460" height="693"/>
 	<SubTexture name="cassette demon note down0006" x="0" y="754" width="460" height="693"/>
